@@ -1,21 +1,43 @@
+bh1555
+*   12fd166 merge 4
+|\
+| *   9d36078 7th commit (2nd on test2).
+| |\
+| * | 06ac412 4th commit (1st on test2)
+* | |   32882ad merge 3
+|\ \ \
+| |_|/
+|/| |
+| * | cd0ef4b 6th commit (2nd on test1).
+* | |   438d50c 5th commit (3rd on master).
+|\ \ \
+| |/ /
+| | /
+| |/
+|/|
+| * 2c790ea 2nd commit (1st on test1)
+* | ba99936 3rd commit (2nd on master)
+|/
+* 7c73d6b 1st commit (1st on master)
+
 yz3713
 *   e633324 (HEAD -> master) Merge branch 'test2' merge test2
-|\  
+|\
 | *   8bbe7aa (test2) 7th commit (2nd on test2).
-| |\  
+| |\
 | * | 4f15cef 4th commit (1st on test2)
 * | |   c6b411c Merge branch 'test1' merge test1
-|\ \ \  
-| |_|/  
-|/| |   
+|\ \ \
+| |_|/
+|/| |
 | * | 8fc24fa (test1) 6th commit (2nd on test1).
 * | |   36ebdc3 5th commit (3rd on master).
-|\ \ \  
-| |/ /  
-| | /   
-| |/    
-|/|     
+|\ \ \
+| |/ /
+| | /
+| |/
+|/|
 | * be5fe50 2nd commit (1st on test1)
 * | ba6ccb8 3rd commit (2nd on master)
-|/  
+|/
 * 6f7516e 1st commit (1st on master)
