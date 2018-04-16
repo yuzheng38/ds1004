@@ -20,6 +20,29 @@ bh1555
 |/  
 * 7c73d6b 1st commit (1st on master)
 
+hr1158
+*   b047a51 merge 4
+|\
+| *   1ab223a seventh commit (second on test2).
+| |\
+| * | 74b06da Fourth commit (first on test2)
+* | |   28c0c48 merge 3
+|\ \ \
+| |_|/
+|/| |
+| * | 6a4bc9e sixth commit (second on test1).
+* | |   edcc29d fifth commit (third on master).
+|\ \ \
+| |/ /
+| | /
+| |/
+|/|
+| * 5699e24 second commit (first on test1)
+* | d82676d third commit (2nd on master)
+|/
+* dcb90ea first commit (first on master)
+
+
 yz3713
 *   e633324 (HEAD -> master) Merge branch 'test2' merge test2
 |\  
