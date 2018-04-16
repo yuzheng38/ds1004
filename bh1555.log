@@ -1,0 +1,21 @@
+bh1555
+*   12fd166 merge 4
+|\  
+| *   9d36078 7th commit (2nd on test2).
+| |\  
+| * | 06ac412 4th commit (1st on test2)
+* | |   32882ad merge 3
+|\ \ \  
+| |_|/  
+|/| |   
+| * | cd0ef4b 6th commit (2nd on test1).
+* | |   438d50c 5th commit (3rd on master).
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
+| * 2c790ea 2nd commit (1st on test1)
+* | ba99936 3rd commit (2nd on master)
+|/  
+* 7c73d6b 1st commit (1st on master)
